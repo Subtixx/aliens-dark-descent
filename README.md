@@ -11,3 +11,7 @@ Heal every marine
 ### CTRL + F2
 
 Toggle highlighting all interactables
+
+### CTRL + F3
+
+Toggle god mode

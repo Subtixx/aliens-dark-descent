@@ -1,0 +1,7 @@
+CheatManagerEnablerMod : 1
+ConsoleCommandsMod : 1
+ConsoleEnablerMod : 1
+TestMod : 1
+
+; Built-in keybinds, do not move up!
+Keybinds : 1
